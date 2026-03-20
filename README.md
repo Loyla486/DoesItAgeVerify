@@ -21,7 +21,8 @@ The developers or publishers of these open source Operating Systems have decided
 | :no_entry: | **DB48X** | Calculator firmware, [Developer statement](https://x.com/lundukejournal/status/2027358439991615715) |
 | :no_entry: | **Arch Linux 32** | [Developer forbids usage in Brazil, California](https://x.com/lundukejournal/status/2033896030178029675) |
 | :no_entry: | **Ageless Linux** | [Debian fork created to protest "age" Verification](https://x.com/lundukejournal/status/2032951803134837237) |
-| :no_entry: | **Adenix GNU/Linux** | [States in their ToS, to not use the distro in "age-gated" states.](https://www.adenixgnulinux.org/tos) - [They also asked Debian to make it easier to remove said packages](https://lists.debian.org/debian-legal/2026/03/msg00022.html?ref=itsfoss.com) - [Thanks to issue #10](https://github.com/BryanLunduke/DoesItAgeVerify/issues/10)|
+| :no_entry: | **Adenix GNU/Linux** | [States in their ToS, to not use the distro in "age-gated" states.](https://www.adenixgnulinux.org/tos) - [They also asked Debian to make it easier to remove said packages](https://lists.debian.org/debian-legal/2026/03/msg00022.html?ref=itsfoss.com) - [Thanks to Issue #10](https://github.com/BryanLunduke/DoesItAgeVerify/issues/10)|
+| :no_entry: | **Void Linux** | [Comment on reddit, at least for now](https://www.reddit.com/r/voidlinux/comments/1ryhgpl/comment/obeigup/) - [Thanks to Pull Request #15](https://github.com/BryanLunduke/DoesItAgeVerify/pull/15)|
 
 ### Operating Systems Planning to Implement ID Verification
 
@@ -41,6 +42,6 @@ As of the most recent update to this document, no known Open Source Operating Sy
 ### Known Software/OS Components that plan on implementing it (Will Include Software that calls the "age" API)
 | &nbsp; | Software | Notes |
 | - | - | - |
-| :building_construction: | **systemd** | [GitHub Pull Request to implement it](https://github.com/systemd/systemd/pull/40954)  - If this goes through, most Linux distros would have it by default! - [Via Issue #4](https://github.com/BryanLunduke/DoesItAgeVerify/issues/4)|
-| :building_construction: | **XDG Desktop Portal** | [GitHub Pull Request to implement it](https://github.com/flatpak/xdg-desktop-portal/pull/1922) - [Via Issue #4](https://github.com/BryanLunduke/DoesItAgeVerify/issues/4)|
-| :building_construction: | **Polkit/AccountsService** | [GitLab Pull Request to implement it](https://gitlab.freedesktop.org/accountsservice/accountsservice/-/merge_requests/176) - [Via Issue #4](https://github.com/BryanLunduke/DoesItAgeVerify/issues/4)|
+| :building_construction: | **systemd** | [GitHub Pull Request to implement it](https://github.com/systemd/systemd/pull/40954)  - If this goes through, most Linux distros would have it by default! - [Thanks to Issue #4](https://github.com/BryanLunduke/DoesItAgeVerify/issues/4)|
+| :building_construction: | **XDG Desktop Portal** | [GitHub Pull Request to implement it](https://github.com/flatpak/xdg-desktop-portal/pull/1922) - [Thanks to Issue #4](https://github.com/BryanLunduke/DoesItAgeVerify/issues/4)|
+| :building_construction: | **Polkit/AccountsService** | [GitLab Pull Request to implement it](https://gitlab.freedesktop.org/accountsservice/accountsservice/-/merge_requests/176) - [Thanks to Issue #4](https://github.com/BryanLunduke/DoesItAgeVerify/issues/4)|
