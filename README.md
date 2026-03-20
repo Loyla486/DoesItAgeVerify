@@ -18,7 +18,8 @@ The developers or publishers of these open source Operating Systems have decided
 | :no_entry: | **Artix Linux** | [Developer statement](https://x.com/lundukejournal/status/2034776326901555488) |
 | :no_entry: | **DB48X** | Calculator firmware, [Developer statement](https://x.com/lundukejournal/status/2027358439991615715) |
 | :no_entry: | **Arch Linux 32** | [Developer forbids usage in Brazil, California](https://x.com/lundukejournal/status/2033896030178029675) |
-| :no_entry: | **Ageless Linux** | [Debian fork created to protest ID Verification](https://x.com/lundukejournal/status/2032951803134837237) |
+| :no_entry: | **Ageless Linux** | [Debian fork created to protest AGE Verification](https://x.com/lundukejournal/status/2032951803134837237) |
+| :no_entry: | **Adenix GNU/Linux** | [States in their ToS, to not use the distro in "age-gated" states.](https://www.adenixgnulinux.org/tos) Also made a statement to Debian to make it easier to remove said packages: https://lists.debian.org/debian-legal/2026/03/msg00022.html?ref=itsfoss.com - Thanks to: https://github.com/BryanLunduke/DoesItAgeVerify/issues/10|
 
 ### Operating Systems Planning to Implement ID Verification
 
