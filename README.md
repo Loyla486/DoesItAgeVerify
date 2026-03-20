@@ -1,5 +1,7 @@
 This page is a running list of Open Source Operating Systems (Linux & *BSD distributions, etc.) and what their current status is regarding ID verification.
 
+This list may not be up-to-date!
+
 There are several locales which have laws (in various stages) which require Operating Systems themselves to perform some level of ID verification and reporting.
 
 Passed OS-Level ID Verification Laws: [Brazil](https://x.com/lundukejournal/status/2033927808196481101), & [California](https://x.com/lundukejournal/status/2026783141298360692).
