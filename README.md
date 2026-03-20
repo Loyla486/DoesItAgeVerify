@@ -25,7 +25,7 @@ The developers or publishers of these open source Operating Systems have decided
 
 ### Operating Systems Planning to Implement ID Verification
 
-The developers or publishers of these Open Source Operating Systems have made plans and/or statements that they intend to comply with new ID Verification laws.  But, as yet, that ID Verfication functionality is not fully implemented.
+The developers or publishers of these Open Source Operating Systems have made plans and/or statements that they intend to comply with new ID Verification laws,  but, as of yet, that ID Verfication functionality is not fully implemented.
 
 | &nbsp; | Operating System | Notes |
 | - | - | - |
@@ -38,7 +38,7 @@ The developers or publishers of these Open Source Operating Systems have made pl
 
 As of the most recent update to this document, no known Open Source Operating Systems have fully complied with legal ID Verification requirements for any jurisdiction.
 
-### Known Software/OS Components that plan on implementing it (Including Software that calls the "age" API)
+### Known Software/OS Components that plan on implementing it (Will Include Software that calls the "age" API)
 | &nbsp; | Software | Notes |
 | - | - | - |
 | :building_construction: | **systemd** | [GitHub Pull Request to implement it](https://github.com/systemd/systemd/pull/40954)  - If this goes through, most Linux distros would have it by default! - [Via Issue #4](https://github.com/BryanLunduke/DoesItAgeVerify/issues/4)|
