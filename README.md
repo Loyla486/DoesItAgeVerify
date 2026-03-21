@@ -16,9 +16,10 @@ The developers or publishers of these open source Operating Systems have decided
 | - | - | - |
 | :heavy_check_mark: | **Omarchy Linux** | [Developer statement](https://x.com/lundukejournal/status/2029580164498108846) |
 | :heavy_check_mark: | **Devuan Linux** | [Developer statement](https://x.com/lundukejournal/status/2034697759291310115) |
+| :heavy_check_mark: | **Vendefoul Wolf Linux** | [Developer statement 1](https://x.com/lundukejournal/status/2035390136356077822), [2](https://x.com/vendefoulwolf/status/2035441292520386852) |
 | :heavy_check_mark: | **GrapheneOS** | Android-based mobile OS, [Developer statement](https://x.com/lundukejournal/status/2035073741613338964) |
 | :heavy_check_mark: | **FreeDOS** | [Developer statement](https://x.com/lundukejournal/status/2034770975309361583) |
-| :heavy_check_mark: | **Artix Linux** | [Developer statement](https://x.com/lundukejournal/status/2034776326901555488) |
+| :heavy_check_mark: | **Artix Linux** | [Developer statement](https://x.com/lundukejournal/status/2034776326901555488) - [Direct Link](https://forum.artixlinux.org/index.php/topic,9304.msg55607.html#msg55607)|
 | :heavy_check_mark: | **DB48X** | Calculator firmware, [Developer statement](https://x.com/lundukejournal/status/2027358439991615715) |
 | :heavy_check_mark: | **Arch Linux 32** | [Developer forbids usage in Brazil, California](https://x.com/lundukejournal/status/2033896030178029675) |
 | :heavy_check_mark: | **Ageless Linux** | [Debian fork created to protest "age" Verification](https://x.com/lundukejournal/status/2032951803134837237) - [They also have a list of distros, and their status on complying.](https://agelesslinux.org/distros.html)|
