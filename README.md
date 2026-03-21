@@ -1,4 +1,4 @@
-This page is a running list of Open Source Operating Systems (Linux & *BSD distributions, etc.) and what their current status is regarding ID verification.
+This page is a running list of Open Source Operating Systems (Mainly, but not limited to, Linux & *BSD distributions, etc.) and what their current status is regarding ID verification.
 
 This list may not be up-to-date!
 
