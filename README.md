@@ -14,16 +14,16 @@ The developers or publishers of these open source Operating Systems have decided
 
 | &nbsp; | Operating System | Notes |
 | - | - | - |
-| :no_entry: | **Omarchy Linux** | [Developer statement](https://x.com/lundukejournal/status/2029580164498108846) |
-| :no_entry: | **Devuan Linux** | [Developer statement](https://x.com/lundukejournal/status/2034697759291310115) |
-| :no_entry: | **GrapheneOS** | Android-based mobile OS, [Developer statement](https://x.com/lundukejournal/status/2035073741613338964) |
-| :no_entry: | **FreeDOS** | [Developer statement](https://x.com/lundukejournal/status/2034770975309361583) |
-| :no_entry: | **Artix Linux** | [Developer statement](https://x.com/lundukejournal/status/2034776326901555488) |
-| :no_entry: | **DB48X** | Calculator firmware, [Developer statement](https://x.com/lundukejournal/status/2027358439991615715) |
-| :no_entry: | **Arch Linux 32** | [Developer forbids usage in Brazil, California](https://x.com/lundukejournal/status/2033896030178029675) |
-| :no_entry: | **Ageless Linux** | [Debian fork created to protest "age" Verification](https://x.com/lundukejournal/status/2032951803134837237) |
-| :no_entry: | **Adenix GNU/Linux** | [States in their ToS, to not use the distro in "age-gated" states.](https://www.adenixgnulinux.org/tos) - [They also asked Debian to make it easier to remove said packages](https://lists.debian.org/debian-legal/2026/03/msg00022.html?ref=itsfoss.com) - [Thanks to Issue #10](https://github.com/BryanLunduke/DoesItAgeVerify/issues/10)|
-| :no_entry: | **Void Linux** | [Comment on reddit, at least for now](https://www.reddit.com/r/voidlinux/comments/1ryhgpl/comment/obeigup/) - [Thanks to Pull Request #15](https://github.com/BryanLunduke/DoesItAgeVerify/pull/15)|
+| :heavy_check_mark: | **Omarchy Linux** | [Developer statement](https://x.com/lundukejournal/status/2029580164498108846) |
+| :heavy_check_mark: | **Devuan Linux** | [Developer statement](https://x.com/lundukejournal/status/2034697759291310115) |
+| :heavy_check_mark: | **GrapheneOS** | Android-based mobile OS, [Developer statement](https://x.com/lundukejournal/status/2035073741613338964) |
+| :heavy_check_mark: | **FreeDOS** | [Developer statement](https://x.com/lundukejournal/status/2034770975309361583) |
+| :heavy_check_mark: | **Artix Linux** | [Developer statement](https://x.com/lundukejournal/status/2034776326901555488) |
+| :heavy_check_mark: | **DB48X** | Calculator firmware, [Developer statement](https://x.com/lundukejournal/status/2027358439991615715) |
+| :heavy_check_mark: | **Arch Linux 32** | [Developer forbids usage in Brazil, California](https://x.com/lundukejournal/status/2033896030178029675) |
+| :heavy_check_mark: | **Ageless Linux** | [Debian fork created to protest "age" Verification](https://x.com/lundukejournal/status/2032951803134837237) |
+| :heavy_check_mark: | **Adenix GNU/Linux** | [States in their ToS, to not use the distro in "age-gated" states.](https://www.adenixgnulinux.org/tos) - [They also asked Debian to make it easier to remove said packages](https://lists.debian.org/debian-legal/2026/03/msg00022.html?ref=itsfoss.com) - [Thanks to Issue #10](https://github.com/BryanLunduke/DoesItAgeVerify/issues/10)|
+| :heavy_check_mark: | **Void Linux** | [Comment on reddit, at least for now](https://www.reddit.com/r/voidlinux/comments/1ryhgpl/comment/obeigup/) - [Thanks to Pull Request #15](https://github.com/BryanLunduke/DoesItAgeVerify/pull/15)|
 
 ### Operating Systems Planning to Implement ID Verification
 
