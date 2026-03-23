@@ -44,6 +44,6 @@ As of the most recent update to this document, no known Open Source Operating Sy
 ### Known Software/OS Components that plan on implementing it (Might also Include Software that calls the "age" API)
 | &nbsp; | Software | Notes |
 | - | - | - |
-| :building_construction: | **systemd (v260+)** | [GitHub Pull Request to implement it](https://github.com/systemd/systemd/pull/40954)  - If this goes through, most Linux distros would have it by default! - [Thanks to Issue #4](https://github.com/BryanLunduke/DoesItAgeVerify/issues/4)|
+| :building_construction: | **systemd** | [GitHub Pull Request to implement it](https://github.com/systemd/systemd/pull/40954)  - If this goes through, most Linux distros would have it by default! - [Thanks to Issue #4](https://github.com/BryanLunduke/DoesItAgeVerify/issues/4)|
 | :building_construction: | **XDG Desktop Portal** | [GitHub Pull Request to implement it](https://github.com/flatpak/xdg-desktop-portal/pull/1922) - [Thanks to Issue #4](https://github.com/BryanLunduke/DoesItAgeVerify/issues/4)|
 | :building_construction: | **Polkit/AccountsService** | [GitLab Pull Request to implement it](https://gitlab.freedesktop.org/accountsservice/accountsservice/-/merge_requests/176) - [Thanks to Issue #4](https://github.com/BryanLunduke/DoesItAgeVerify/issues/4)|
